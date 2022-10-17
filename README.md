@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andy!
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning react and redux (with typescript)
+- 👋 Hi, I’m Andrey!
+- 👀 I’m interested in Front-End development
+- 🌱 I’m currently learning ReactJS and Redux (with TypeScript)
 - 💞️ IT & Green Energy
 
 
