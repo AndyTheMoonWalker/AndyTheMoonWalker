@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy!
-- 👀 I’m interested in front-end technologies
-- 🌱 I’m currently learning reactjs and redux
-- 💞️ I’m looking for a job in Sweden
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning react and redux (with typescript)
+- 💞️ IT & Green Energy
 
 
 <!---
